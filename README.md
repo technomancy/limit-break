@@ -2,7 +2,7 @@
 
 <img src="http://p.hagelb.org/limit-break.jpg" alt="omnislash" />
 
-Modernized version of George Jahad's debug-repl.
+Modernized version of alex and george's debug-repl.
 
 ## Usage
 
@@ -14,7 +14,7 @@ nREPL. Try `lein trampoline run -m clojure.main/main`.
 
 ## License
 
-Copyright © 2009-2012 George Jahad, Alex Osborne, and Phil Hagelberg.
+Copyright © 2009-2012 Alex Osborne, George Jahad, and Phil Hagelberg.
 
 Image above © 1997 Square Enix.
 
